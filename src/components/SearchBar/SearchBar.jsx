@@ -17,15 +17,15 @@ export default class SearchBar extends Component {
 
 	render() {
 		return (
-			<div class="searchBar">
-				<div class="searchBar-sort-options">
+			<div className="searchBar">
+				<div className="searchBar-sort-options">
 					<ul>{this.renderSortByOptions()}</ul>
 				</div>
-				<div class="searchBar-fields">
+				<div className="searchBar-fields">
 					<input placeholder="Search Businesses" />
 					<input placeholder="Where?" />
 				</div>
-				<div class="searchBar-submit">
+				<div className="searchBar-submit">
 					<a>Let's Go</a>
 				</div>
 			</div>
