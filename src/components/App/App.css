@@ -1,0 +1,15 @@
+.App {
+	text-align: center;
+}
+
+body {
+	font-family: Poppins, sans-serif;
+}
+
+h1 {
+	padding: 0.66rem 0;
+	font-family: Poppins, sans-serif;
+	color: #fff;
+	background-color: rgb(204, 163, 83);
+	font-size: 1.8rem;
+}
