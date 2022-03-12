@@ -1,9 +1,10 @@
-.App {
-	text-align: center;
-}
 
 body {
-	font-family: Poppins, sans-serif;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.app-title{
+	text-align: center;
 }
 
 h1 {
